@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+}
+
+#app {
+  padding: 10px 20px;
+  background-color: lightsalmon;
+}
+
+h1 {
+  color: white;
+}
